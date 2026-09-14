@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(.venv-1/Scripts/python.exe -c ' *)",
-      "Bash(\".venv-1/Scripts/python.exe\" \"C:\\\\Users\\\\luis_\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-luis--Documents-5to-semestre-practica1\\\\59341df2-10d9-4dfc-bb20-bed5a763eedb\\\\scratchpad\\\\build_notebook.py\")"
-    ]
-  }
-}
